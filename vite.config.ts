@@ -16,7 +16,7 @@ export default defineConfig({
           theme_color: '#182330',
           icons: [        //添加图标， 注意路径和图像像素正确
             {
-              src: './public/vite.svg',
+              src: '/vite.svg',
               sizes: '192x192',
               type: 'image/svg+xml',
             },
