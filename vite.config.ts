@@ -38,7 +38,7 @@ export default defineConfig({
                       }
                     }
                   : {
-                      urlPattern: ({ url }) => url.origin === 'https://app-api.id',
+                      urlPattern: ({ url }) => url.origin === 'https://static-pages-sand.vercel.app',
                       handler: 'NetworkFirst',
                       options: {
                         cacheName: 'wisbayar-api',
