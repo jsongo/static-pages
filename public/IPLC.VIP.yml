@@ -1510,6 +1510,7 @@ rules:
  - DOMAIN,fonts.gstatic.com,YouTube
  - DOMAIN-SUFFIX,google.com,YouTube
  - DOMAIN-SUFFIX,perplexity.ai,YouTube
+ - DOMAIN-SUFFIX,ciciai.com,YouTube
  - DOMAIN-KEYWORD,netflix,Netflix
  - DOMAIN-SUFFIX,fast.com,Netflix
  - DOMAIN-SUFFIX,maying.co,Netflix
